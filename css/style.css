@@ -134,8 +134,7 @@ margin-bottom: 20px;
   width:33.33%;
 }
 .iphone{
-  position: relative;
-  bottom:300px;
+margin-top: -300px;
   z-index: 10;
 }
 
